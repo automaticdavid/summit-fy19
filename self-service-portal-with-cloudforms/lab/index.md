@@ -3,8 +3,6 @@
 <!-- TOC -->
 
 - [Lab Introduction](#lab-introduction)
-    - [Introduction to CloudForms](#introduction-to-cloudforms)
-        - [Access the lab environment](#access-the-lab-environment)
     - [Verify Lab](#verify-lab)
         - [OpenStack Provider status](#openstack-provider-status)
         - [Red Hat Virtualization Provider status](#red-hat-virtualization-provider-status)
