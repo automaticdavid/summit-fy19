@@ -303,7 +303,7 @@ To be able to run Ansible Playbooks, they have to become available in CloudForms
 
     Update on Launch causes CloudForms to check for new Playbooks or updated Playbooks before a Playbook is launched.
     
-     :heavy_check_mark: ***ATTENTION: CETTE URL N'EST PAS CORRECTE DANS LES SCREENSHOTS CI DESSOUS***
+     :warning: ***ATTENTION: CETTE URL N'EST PAS CORRECTE DANS LES SCREENSHOTS CI DESSOUS***
 
     ***SCM Update Options:*** check "Update on Launch"
 
