@@ -299,9 +299,11 @@ To be able to run Ansible Playbooks, they have to become available in CloudForms
 
     ***URL:***
 
-        https://github.com/cbolz/summit-fy19.git
+        https://github.com/automaticdavid/summit-fy19.git
 
     Update on Launch causes CloudForms to check for new Playbooks or updated Playbooks before a Playbook is launched.
+    
+    *** ATTENTION: CETTE URL N'EST PAS CORRECTE DANS LES SCREENSHOTS CI DESSOUS ***
 
     ***SCM Update Options:*** check "Update on Launch"
 
